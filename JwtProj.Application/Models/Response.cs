@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace JwtProj.Application.Models
 {
-    internal class Response
+     public  class Response
     {
+        public string? Status { get; set; }
+        public string? Message { get; set; }
     }
 }

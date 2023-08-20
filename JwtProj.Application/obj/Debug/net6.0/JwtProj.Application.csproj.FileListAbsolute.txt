@@ -1,0 +1,12 @@
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\bin\Debug\net6.0\JwtProj.Application.deps.json
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\bin\Debug\net6.0\JwtProj.Application.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\bin\Debug\net6.0\JwtProj.Application.pdb
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\JwtProj.Application.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\JwtProj.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\JwtProj.Application.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\JwtProj.Application.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\JwtProj.Application.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\JwtProj.Application.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\refint\JwtProj.Application.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\JwtProj.Application.pdb
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Application\obj\Debug\net6.0\ref\JwtProj.Application.dll

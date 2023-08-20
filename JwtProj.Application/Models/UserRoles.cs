@@ -1,7 +1,8 @@
-﻿namespace JwtProj.Application
+﻿namespace JwtProj.Application.Models
 {
-    public class Class1
+    public static class UserRoles
     {
-
+        public const string Admin = "Admin";
+        public const string User = "User";
     }
 }

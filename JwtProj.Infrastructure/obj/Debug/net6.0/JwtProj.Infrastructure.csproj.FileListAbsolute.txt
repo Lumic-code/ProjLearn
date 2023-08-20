@@ -1,0 +1,17 @@
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\bin\Debug\net6.0\JwtProj.Infrastructure.deps.json
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\bin\Debug\net6.0\JwtProj.Infrastructure.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\bin\Debug\net6.0\JwtProj.Infrastructure.pdb
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\bin\Debug\net6.0\JwtProj.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\bin\Debug\net6.0\JwtProj.Core.pdb
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.csproj.CopyComplete
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\refint\JwtProj.Infrastructure.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.pdb
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\ref\JwtProj.Infrastructure.dll
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\bin\Debug\net6.0\JwtProj.Infrastructure.runtimeconfig.json
+C:\Users\wisdo\OneDrive\Desktop\JwtProject\JwtProj.Infrastructure\obj\Debug\net6.0\JwtProj.Infrastructure.genruntimeconfig.cache

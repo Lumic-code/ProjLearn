@@ -1,7 +1,11 @@
+using JwtProj.Application.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JwtProj.Api.Controllers
 {
+    [Authorize(Roles = UserRoles.Admin)]
+    //[Authorize]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
